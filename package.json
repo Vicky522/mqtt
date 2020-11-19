@@ -1,0 +1,23 @@
+{
+  "name": "mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vicky522/mqtt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vicky522/mqtt/issues"
+  },
+  "homepage": "https://github.com/Vicky522/mqtt#readme",
+  "dependencies": {
+    "mosca": "^2.8.3",
+    "nodemon": "^2.0.6"
+  }
+}
